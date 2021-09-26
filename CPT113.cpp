@@ -19,7 +19,7 @@ public:
         matricNum = num;
     }
 
-    //Task D
+   
     void showStudentDetail(extdatetype& x)
     {
         // because extdatetype is friend of datetype so it can access 
@@ -69,7 +69,7 @@ int main() {
     extdatetype e1 = extdatetype(month, day, year);
     e1.printdate();
     // student information class
-    StudentInfo info = StudentInfo("Muaadh", "Esmail", 149686);
+    StudentInfo info = StudentInfo("f_name", "L_name", 123456);
     info.showStudentDetail(e1);   // friend function implementation
     return 0;
 }
