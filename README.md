@@ -26,13 +26,13 @@ calculate the new date by adding a fixed number, show the month as a string, and
   
   
   • PROCESS AND FORMULA :
-i. Ask user to Enter Date as mm/dd/yy.
-ii. User will enter the Date.
-iii. Show the Date that user entered and the number of the days in that month.
-iv. Ask user to enter the fixed number.
-v. Get the fixed number .
-vi. Show if is it leap year or not .
-vii. Show the Date with string month.
-viii. Ask user to inter student information .
-ix. Get student information.
-x. Finally Show the information and display the Date with string month.
+ Ask user to Enter Date as mm/dd/yy.
+ User will enter the Date.
+ Show the Date that user entered and the number of the days in that month.
+ Ask user to enter the fixed number.
+ Get the fixed number .
+ Show if is it leap year or not .
+ Show the Date with string month.
+ Ask user to inter student information .
+ Get student information.
+ Finally Show the information and display the Date with string month.
